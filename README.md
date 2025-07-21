@@ -8,7 +8,6 @@ This repository contains a comprehensive data analysis and visualization project
 
 | File/Folder                  | Description                                                                 |
 | `Playstore_Analysis.ipynb`  | Google Colab notebook containing data cleaning, analysis, and visualizations. |
-| `Project_Report.pdf`        | Internship project report detailing methodology, objectives, and outcomes. |
 | `README.md`                 | This file — provides project overview, setup, and usage instructions.      |
 
 ---
